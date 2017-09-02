@@ -7,6 +7,10 @@
   height: 100vh;
 }
 
+.active {
+
+}
+
 .navigation {
   margin-bottom: 5%;
 }
@@ -164,4 +168,10 @@ ul {
 
 li span {
   text-transform: capitalize;
+}
+
+#map_canvas {
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
